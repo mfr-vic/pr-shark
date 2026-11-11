@@ -1,4 +1,5 @@
-- 1° pr
-- 2° pr
-- 3° e último pr
+- 1° pr (Pull Shark)
+- 2° pr (Pull Shark)
+- 3° e último pr (Pull Shark)
   
+- Pair Extraordinaire Achievement (adding co-author)
